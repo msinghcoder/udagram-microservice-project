@@ -3,7 +3,7 @@ To help review your infrastructure, please include the following screenshots in 
 
 ## Deployment Pipeline
 * DockerHub showing containers that you have pushed
-![Screenshot](DockerImages.jpg)
+![Screenshot](Docker-Images.jpg)
 * GitHub repository’s settings showing your Travis webhook (can be found in Settings - Webhook)
 ![Screenshot](TravisCI-Integration.jpg)
 * Travis CI showing a successful build and deploy job
