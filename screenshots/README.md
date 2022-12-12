@@ -18,7 +18,8 @@ kubectl get pods
 ```bash
 kubectl describe services
 ```
-![Screenshot](services-1.jpg)
+![Screenshot](service-1.jpg)
+
 ![Screenshot](service-2.jpg)
 
 To verify that you have set up services to loadbalancer
@@ -34,7 +35,13 @@ kubectl describe hpa
 ```bash
 kubectl logs {pod_name}
 ```
+
+Feed API Logs
+
 ![Screenshot](Feed-API-Logs.jpg)
+
+User API Logs
+
 ![Screenshot](User-API-Logs.jpg)
 
 AWS Screenshots
