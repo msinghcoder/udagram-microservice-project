@@ -6,7 +6,7 @@ data:
   AWS_REGION: us-east-2
   JWT_SECRET: testing
   POSTGRES_DB: postgres
-  POSTGRES_HOST: postgres.cmtz61aohfiu.us-east-1.rds.amazonaws.com
-  URL: http://a07cff3a0f0314ff38e920db00c33e25-421160307.us-east-2.elb.amazonaws.com
+  POSTGRES_HOST: database-1.cvetme2txlts.us-east-2.rds.amazonaws.com
+  URL: http://a5f223947407c4381b30c7708827225a-1953935936.us-east-2.elb.amazonaws.com
 metadata:
   name: env-config
