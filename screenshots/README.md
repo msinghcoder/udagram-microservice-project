@@ -22,6 +22,8 @@ kubectl describe services
 
 ![Screenshot](services-2.jpg)
 
+![Screenshot](services-3.jpg)
+
 To verify that you have set up services to loadbalancer
 kubectl get services
 ![Screenshot](services.jpg)
