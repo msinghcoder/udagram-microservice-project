@@ -18,9 +18,9 @@ kubectl get pods
 ```bash
 kubectl describe services
 ```
-![Screenshot](service-1.jpg)
+![Screenshot](services-1.jpg)
 
-![Screenshot](service-2.jpg)
+![Screenshot](services-2.jpg)
 
 To verify that you have set up services to loadbalancer
 kubectl get services
